@@ -1,0 +1,126 @@
+OpenCoach License Agreement
+===========================
+
+Copyright (c) 2026 OpenCoach
+Developed by Spfr. Haßmersheim
+
+---
+
+1. Scope
+--------
+This license applies to all components of the OpenCoach project, including but not limited to:
+- MatchDay
+- SquadTrack
+- all related source code, assets, and documentation
+
+---
+
+2. Permission
+-------------
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software to:
+
+- use the software for private and organizational purposes
+- host and run the software on own servers
+- modify and adapt the software for own use
+- distribute modified versions under the conditions below
+
+---
+
+3. Mandatory Attribution (STRICT REQUIREMENT)
+---------------------------------------------
+The following MUST remain intact and visible at all times:
+
+- Copyright notice:
+  "© [YEAR] OpenCoach"
+
+- Attribution:
+  "powered by OpenCoach – by Spfr. Haßmersheim"
+
+These elements:
+- MUST be displayed in the footer or equivalent visible area
+- MUST NOT be removed
+- MUST NOT be replaced
+- MAY be extended (e.g. additional credits), but never altered or hidden
+
+Any attempt to obscure, remove, or manipulate attribution (e.g. via CSS, display:none, overlays, etc.) is strictly prohibited.
+
+---
+
+4. Commercial Use Restriction
+----------------------------
+The software or any derivative of it:
+
+- MUST NOT be sold
+- MUST NOT be offered as a paid service (SaaS, hosting, subscriptions, etc.)
+- MUST NOT be rebranded and distributed as a proprietary or competing product
+
+This includes:
+- direct selling
+- indirect monetization (e.g. bundled in paid platforms)
+- offering access behind paywalls
+
+Exception:
+Explicit written permission from the original author (OpenCoach / Spfr. Haßmersheim)
+
+---
+
+5. Redistribution Rules
+----------------------
+You are allowed to share or publish modified versions ONLY IF:
+
+- this license file is included unchanged
+- attribution (see section 3) remains fully intact
+- it is clearly stated that the version is modified
+- original authorship is clearly credited
+
+---
+
+6. Branding Protection
+---------------------
+The names:
+
+- OpenCoach
+- MatchDay
+- SquadTrack
+
+are part of the project identity.
+
+You are NOT allowed to:
+- rename and present the software as your own original product
+- remove branding references to hide origin
+
+You MAY:
+- extend branding (e.g. "YourClub Edition based on OpenCoach")
+
+---
+
+7. Disclaimer
+-------------
+This software is provided "as is", without warranty of any kind.
+
+The author is not liable for:
+- data loss
+- system failures
+- incorrect results
+- or any damages arising from the use of this software
+
+Users are responsible for their own backups and system security.
+
+---
+
+8. Termination
+--------------
+Violation of any of these terms will result in immediate termination of the rights granted by this license.
+
+---
+
+9. Final Note
+-------------
+This project was created to support clubs, teams and coaches.
+
+Use it. Improve it. Share it.
+But respect the work behind it.
+
+---
+
+OpenCoach – built for the game.
