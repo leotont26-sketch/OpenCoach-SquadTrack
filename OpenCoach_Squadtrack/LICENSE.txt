@@ -1,0 +1,183 @@
+OpenCoach License Agreement
+Version 1.0
+Copyright (c) 2026 OpenCoach / Level Ten
+
+Applies to:
+- OpenCoach MatchDay
+- OpenCoach SquadTrack
+
+========================================================
+1. PREAMBLE
+========================================================
+
+OpenCoach is a free and open source software project created to support
+football clubs, trainers, volunteers, organizers and youth sports.
+
+This software may be used, modified and distributed under the conditions
+defined in this license agreement.
+
+The intention of this license is:
+- to allow free use and further development,
+- to keep the project accessible for small clubs,
+- to preserve attribution to the original project and contributors,
+- and to protect the identity and visibility of OpenCoach.
+
+Because apparently humans cannot resist deleting credits after receiving
+hundreds of hours of free work.
+
+========================================================
+2. PERMITTED USE
+========================================================
+
+You are allowed to:
+
+- use the software privately or commercially,
+- host the software on your own server,
+- modify the source code,
+- extend the functionality,
+- adapt the design and layout,
+- redistribute modified or unmodified copies,
+- contribute improvements back to the project.
+
+No subscription fees or royalties are required.
+
+========================================================
+3. MANDATORY ATTRIBUTION
+========================================================
+
+The following footer attribution MUST remain permanently visible
+inside the software interface, administration area, exports and
+all public pages where originally included:
+
+"OpenCoach"
+and
+"Spfr. Haßmersheim"
+
+including all associated hyperlinks and redirects.
+
+The attribution/footer may:
+- be visually extended,
+- be repositioned reasonably,
+- receive additional project or club names,
+- receive styling changes.
+
+The attribution/footer may NOT:
+- be removed,
+- hidden,
+- visually obscured,
+- replaced,
+- disabled,
+- disconnected from its original link target,
+- manipulated through CSS, JavaScript or overlays,
+- be made unreadable by color, opacity or sizing tricks.
+
+This applies to:
+- source code,
+- generated PDFs,
+- exports,
+- screen modes,
+- embedded views,
+- mobile views,
+- kiosk/screen displays,
+- modified forks.
+
+========================================================
+4. FORBIDDEN ACTIONS
+========================================================
+
+You are NOT allowed to:
+
+- claim the software as your original work,
+- remove or alter copyright notices,
+- remove mandatory attribution,
+- sell the software as a closed-source proprietary product,
+- sublicense the software under a more restrictive license,
+- use the OpenCoach name or branding deceptively,
+- redistribute versions that intentionally bypass attribution protection.
+
+========================================================
+5. DISTRIBUTION OF MODIFIED VERSIONS
+========================================================
+
+Modified versions may be distributed only if:
+
+- this license file remains included,
+- original copyright notices remain intact,
+- mandatory attribution remains functional and visible,
+- modifications are clearly identifiable.
+
+Recommended example:
+
+"Based on OpenCoach MatchDay"
+or
+"Modified version of OpenCoach SquadTrack"
+
+========================================================
+6. WARRANTY DISCLAIMER
+========================================================
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- MERCHANTABILITY,
+- FITNESS FOR A PARTICULAR PURPOSE,
+- SECURITY,
+- AVAILABILITY,
+- DATA INTEGRITY,
+- OR NON-INFRINGEMENT.
+
+The authors are not liable for:
+- damages,
+- data loss,
+- tournament chaos,
+- angry parents,
+- broken schedules,
+- missing attendance statistics,
+- or volunteers screaming into folding tables at 22:30
+  because somebody entered the wrong result.
+
+Use at your own risk.
+
+========================================================
+7. TERMINATION
+========================================================
+
+Any violation of this license automatically terminates the rights
+granted under this agreement.
+
+Especially:
+- removal of attribution,
+- removal of footer links,
+- hiding OpenCoach or Spfr. Haßmersheim references.
+
+Upon violation, all usage and distribution rights immediately expire.
+
+========================================================
+8. OPEN SOURCE SPIRIT
+========================================================
+
+OpenCoach is built with the intention of helping grassroots football.
+
+If you improve the software, consider contributing back to the project
+so other clubs can benefit as well.
+
+Turns out collaboration works better than every club suffering alone
+inside twenty different Excel sheets from 2009.
+
+========================================================
+9. CONTACT
+========================================================
+
+Project:
+OpenCoach
+
+Modules:
+- MatchDay
+- SquadTrack
+
+Website:
+https://www.tont-online.de
+
+========================================================
+END OF LICENSE
+========================================================
